@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "trigger-event-detector"
+version = "1.0.0"
+description = "Deterministic detection of recorded outreach triggers"
+requires-python = ">=3.10"
+
+[project.scripts]
+ted = "trigger_event_detector.cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

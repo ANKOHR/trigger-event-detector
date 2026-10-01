@@ -1,0 +1,52 @@
+{
+  "_comment": "SYNTHETIC handwritten five-record example",
+  "synthetic": true,
+  "as_of": "2026-09-30",
+  "records": [
+    {
+      "id": "tiny-0",
+      "company": "Synthetic example 0",
+      "kind": "funding",
+      "verified": true,
+      "date": "2026-09-20",
+      "source": "synthetic://handwritten-example",
+      "synthetic": true
+    },
+    {
+      "id": "tiny-1",
+      "company": "Synthetic example 1",
+      "kind": "hiring",
+      "verified": true,
+      "date": "2026-09-25",
+      "source": "synthetic://handwritten-example",
+      "synthetic": true
+    },
+    {
+      "id": "tiny-2",
+      "company": "Synthetic example 2",
+      "kind": "launch",
+      "verified": true,
+      "date": "2026-09-30",
+      "source": "synthetic://handwritten-example",
+      "synthetic": true
+    },
+    {
+      "id": "tiny-3",
+      "company": "Synthetic example 3",
+      "kind": "partnership",
+      "verified": false,
+      "date": "2026-09-20",
+      "source": "synthetic://handwritten-example",
+      "synthetic": true
+    },
+    {
+      "id": "tiny-4",
+      "company": "Synthetic example 4",
+      "kind": "launch",
+      "verified": true,
+      "date": "2026-07-01",
+      "source": "synthetic://handwritten-example",
+      "synthetic": true
+    }
+  ]
+}
