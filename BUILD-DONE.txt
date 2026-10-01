@@ -1,0 +1,11 @@
+Trigger Event Detector build complete
+Date: 2026-10-01
+Tests: 36 passed (pytest, 0.31 seconds)
+Local implementation and acceptance-evidence commit: 87ba562d3b276a3a725834c6cc0792633369b8c8
+This hash identifies the tested build; a following documentation commit records this completion file.
+Measured installed CLI end-to-end synthetic demo: 0.765 seconds, below 5 seconds.
+Branch: main
+Publishing: not performed; separate verification step owns publishing.
+Verdict: pending the two-week real-use evidence window, as required by the brief.
+
+Built a standard-library, CPU-only deterministic Python CLI with fixtures, run, report, events and shortlist commands. The pure engine validates explicit records and detects verified funding, hiring, launch and partnership events within an inclusive dated window. Labelled 200-record synthetic fixtures reconcile exactly to independently specified expectations, with provenance banners, per-currency decimal totals, named errors, atomic report writes, a handwritten five-record example, adversarial and mutation tests, complete input and operating documentation, lessons, measured acceptance evidence and a local real-use trial template. No external data discovery, model calls, estimated savings or invented real trial results are included.
